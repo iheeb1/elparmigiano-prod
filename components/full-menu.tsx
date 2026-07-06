@@ -34,45 +34,45 @@ const MENU_DATA: MenuCategory[] = [
         price: "10€",
         description:
           "Sauce tomate San Marzano, mozzarella fior di latte, basilic frais, huile d'olive vierge extra.",
-        image: "/images/products/pizza-margherita.jpg",
+        image: "/images/products/pizza-margherita.png",
       },
       {
         name: "Pizza Marinara",
         price: "10€",
         description: "Sauce tomate, ail émincé, origan, olives, huile d'olive. (Sans fromage)",
-        image: "/images/products/pizza-marinara.jpg",
+        image: "/images/products/pizza-marinara.png",
       },
       {
         name: "Pizza Capricciosa",
         price: "12€",
         description:
           "Sauce tomate, mozzarella, jambon, champignons frais, cœurs d'artichauts, olives noires.",
-        image: "/images/products/pizza-capricciosa.jpg",
+        image: "/images/products/pizza-capricciosa.png",
       },
       {
         name: "Pizza Al Tonno",
         price: "12€",
         description: "Sauce tomate, mozzarella, thon, oignons rouges, olives noires.",
-        image: "/images/products/pizza-al-tonno.jpg",
+        image: "/images/products/pizza-al-tonno.png",
       },
       {
         name: "Pizza Napoli",
         price: "12€",
         description: "Sauce tomate, mozzarella, filets d'anchois, câpres, olives noires, origan.",
-        image: "/images/products/pizza-napoli.jpg",
+        image: "/images/products/pizza-napoli.png",
       },
       {
         name: "Pizza Pollo",
         price: "12€",
         description: "Sauce tomate, mozzarella, poulet mariné, poivron, origan, huile d'olive.",
-        image: "/images/products/pizza-pollo.jpg",
+        image: "/images/products/pizza-pollo.png",
       },
       {
         name: "Pizza Macinata",
         price: "12€",
         description:
           "Sauce tomate, mozzarella, viande hachée, poivron, oignon rouge, origan, huile d'olive.",
-        image: "/images/products/pizza-macinata.jpg",
+        image: "/images/products/pizza-macinata.png",
       },
       {
         name: "Pizza Ortolana (Végétarienne)",
@@ -126,25 +126,25 @@ const MENU_DATA: MenuCategory[] = [
         name: "Panuozzo Classico",
         price: "7€",
         description: "Mozzarella, jambon, roquette, huile d'olive.",
-        image: "/images/products/panuozzo-classico.jpg",
+        image: "/images/products/panuozzo-classico.png",
       },
       {
         name: "Panuozzo Vegetariano",
         price: "7€",
         description: "Mozzarella, aubergines, courgettes, poivrons, champignons frais, roquette.",
-        image: "/images/products/panuozzo-vegetariano.jpg",
+        image: "/images/products/panuozzo-vegetariano.png",
       },
       {
         name: "Panuozzo Al Salmone",
         price: "8€",
         description: "Mozzarella, saumon fumé, tomate cerise, roquette.",
-        image: "/images/products/panuozzo-salmone.jpg",
+        image: "/images/products/panuozzo-salmone.png",
       },
       {
         name: "Panuozzo Bresaola",
         price: "9€",
         description: "Mozzarella, bresaola, roquette, Parmigiano Reggiano, crème de balsamique.",
-        image: "/images/products/panuozzo-bresaola.jpg",
+        image: "/images/products/panuozzo-bresaola.png",
       },
     ],
   },
@@ -160,28 +160,28 @@ const MENU_DATA: MenuCategory[] = [
         price: "7€",
         description:
           "Avant cuisson : escalope panée, mozzarella, oignons rouges. Après cuisson : salade, tomates cerises, sauce maison.",
-        image: "/images/products/volcano-escalope.jpg",
+        image: "/images/products/volcano-escalope.png",
       },
       {
         name: "El Volcano Poulet",
         price: "7€",
         description:
           "Avant cuisson : poulet grillé mariné, mozzarella, oignons rouges. Après cuisson : salade, tomates cerises, sauce maison.",
-        image: "/images/products/volcano-poulet.jpg",
+        image: "/images/products/volcano-poulet.png",
       },
       {
         name: "El Volcano Thon",
         price: "7€",
         description:
           "Avant cuisson : thon, mozzarella, oignons rouges, olives noires. Après cuisson : salade, tomates cerises, sauce maison.",
-        image: "/images/products/volcano-thon.jpg",
+        image: "/images/products/volcano-thon.png",
       },
       {
         name: "El Volcano Jambon",
         price: "7€",
         description:
           "Avant cuisson : jambon de dinde fumé, mozzarella, champignons frais. Après cuisson : salade, tomates cerises, sauce maison.",
-        image: "/images/products/volcano-jambon.jpg",
+        image: "/images/products/volcano-jambon.png",
       },
     ],
   },
@@ -196,19 +196,19 @@ const MENU_DATA: MenuCategory[] = [
         name: "Boisson fraîche au choix (33 cl)",
         price: "1,50€",
         description: "",
-        image: "/images/products/drink-soda.jpg",
+        image: "/images/products/drink-soda.png",
       },
       {
         name: "Bouteille d'eau (50 cl)",
         price: "1,00€",
         description: "",
-        image: "/images/products/drink-water.jpg",
+        image: "/images/products/drink-water.png",
       },
       {
         name: "Café",
         price: "2,00€",
         description: "",
-        image: "/images/products/drink-coffee.jpg",
+        image: "/images/products/drink-coffee.png",
       },
     ],
   },
@@ -223,35 +223,35 @@ const MENU_DATA: MenuCategory[] = [
         name: "Tiramisu maison",
         price: "4,50€",
         description: "",
-        image: "/images/products/dessert-tiramisu.jpg",
+        image: "/images/products/dessert-tiramisu.png",
       },
       {
         name: "Cookie",
         price: "3,50€",
         description: "",
-        image: "/images/products/dessert-cookie.jpg",
+        image: "/images/products/dessert-cookie.png",
       },
       {
         name: "Mini Pizza Nutella",
         price: "5,50€",
         description: "",
-        image: "/images/products/dessert-mini-pizza-nutella.jpg",
+        image: "/images/products/dessert-mini-pizza-nutella.png",
       },
       {
         name: "Mini Pizza Nutella & Pistache",
         price: "6,50€",
         description: "",
-        image: "/images/products/dessert-mini-pizza-nutella-pistache.jpg",
+        image: "/images/products/dessert-mini-pizza-nutella-pistache.png",
       },
     ],
   },
 ]
 
 const SUPPLEMENTS = [
-  { name: "Champignons", price: "+1,50€", image: "/images/products/supplement-champignons.jpg" },
-  { name: "Burrata", price: "+3,00€", image: "/images/products/supplement-burrata.jpg" },
-  { name: "Œuf", price: "+1,50€", image: "/images/products/supplement-oeuf.jpg" },
-  { name: "Mozzarella", price: "+1,50€", image: "/images/products/supplement-mozzarella.jpg" },
+  { name: "Champignons", price: "+1,50€", image: "/images/products/supplement-champignons.png" },
+  { name: "Burrata", price: "+3,00€", image: "/images/products/supplement-burrata.png" },
+  { name: "Œuf", price: "+1,50€", image: "/images/products/supplement-oeuf.png" },
+  { name: "Mozzarella", price: "+1,50€", image: "/images/products/supplement-mozzarella.png" },
 ]
 
 const containerVariants = {
@@ -545,7 +545,7 @@ function ElPanino() {
           className="relative h-72 w-full overflow-hidden rounded-lg border border-primary/15 sm:h-96"
         >
           <Image
-            src="/images/products/el-panino-hero.jpg"
+            src="/images/products/el-panino-hero.png"
             alt="El Panino"
             fill
             className="object-cover"

@@ -278,20 +278,7 @@ export function LandingPage() {
           </Link>
         </motion.div>
 
-        <motion.div
-          animate={{ y: [0, 10, 0] }}
-          transition={{ duration: 2.5, repeat: Number.POSITIVE_INFINITY }}
-          className="absolute bottom-8 left-1/2 -translate-x-1/2"
-        >
-          <div className="flex flex-col items-center gap-2">
-            <p className="text-xs text-muted-foreground uppercase tracking-widest">Défilez</p>
-            <motion.div
-              animate={{ opacity: [0.5, 1, 0.5] }}
-              transition={{ duration: 1.5, repeat: Number.POSITIVE_INFINITY }}
-              className="h-6 w-1 rounded-full bg-primary/40"
-            />
-          </div>
-        </motion.div>
+
       </section>
 
       {/* About Section */}
@@ -448,19 +435,19 @@ export function LandingPage() {
                 title: "Pizzas Napolitaines",
                 desc: "Traditionnelles et authentiques, cuites au feu de bois selon la recette originale.",
                 price: "À partir de 10€",
-                img: "/images/products/pizza-margherita.jpg",
+                img: "/images/products/pizza-margherita.png",
               },
               {
                 title: "Panuozzo",
                 desc: "Sandwichs italiens levés et croustillants, garnis de saveurs méditerranéennes.",
                 price: "À partir de 7€",
-                img: "/images/products/panuozzo-classico.jpg",
+                img: "/images/products/panuozzo-classico.png",
               },
               {
                 title: "El Panino",
                 desc: "Pains généreux remplis d'ingrédients frais et préparés selon vos envies.",
                 price: "À partir de 5,50€",
-                img: "/images/products/el-panino-hero.jpg",
+                img: "/images/products/el-panino-hero.png",
               },
             ].map((item, i) => (
               <motion.div
