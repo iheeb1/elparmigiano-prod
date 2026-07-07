@@ -79,39 +79,46 @@ const MENU_DATA: MenuCategory[] = [
         price: "12€",
         description:
           "Sauce tomate, mozzarella, aubergines, courgettes, poivrons, champignons frais, olives noires, basilic, huile d'olive.",
+        image: "/images/products/pizza-ortolana.png",
       },
       {
         name: "Pizza Quattro Formaggi",
         price: "12€",
         description: "Sauce tomate, mozzarella, roquefort, gruyère, parmesan.",
+        image: "/images/products/pizza-quattro-formaggi.png",
       },
       {
         name: "Pizza Pollo Bianca",
         price: "14€",
         description: "Sauce blanche, mozzarella, poulet rôti, poivron, champignons, olives.",
+        image: "/images/products/pizza-pollo-bianca.png",
       },
       {
         name: "Pizza Parmigiano",
         price: "14€",
         description:
           "Crème à la truffe, mozzarella, champignons frais, copeaux de Parmigiano Reggiano, roquette, huile de truffe.",
+        image: "/images/products/pizza-parmigiano.png",
       },
       {
         name: "Pizza Al Salmone",
         price: "15€",
         description:
           "Sauce blanche, mozzarella, saumon fumé, parmesan, citron, poivre noir, huile d'olive.",
+        image: "/images/products/pizza-al-salmone.png",
       },
       {
         name: "Pizza Bresaola",
         price: "15€",
         description:
           "Sauce tomate, mozzarella. Après cuisson : bresaola, roquette fraîche, copeaux de Parmigiano Reggiano, filet d'huile d'olive.",
+        image: "/images/products/pizza-bresaola.png",
       },
       {
         name: "Pizza Della Casa",
         price: "15€",
         description: "Disponible uniquement le week-end. Recette différente chaque week-end.",
+        image: "/images/products/pizza-della-casa.png",
       },
     ],
   },
